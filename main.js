@@ -1,3 +1,5 @@
+const navigation = document.querySelector('#navigation')
+
 function onScroll() {
   showNavOnScroll()
   showBackToTopButtonOnScroll()
