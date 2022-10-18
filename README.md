@@ -2,8 +2,8 @@
 
 ![Imagem do resultado do projeto](./assets/resultado.png)
 <br>
-> 🚀 <a href="https://lucyanovidio.github.io/doctorcare">Acesse aqui</a><br><br>
-> 🖌 <a href="https://www.figma.com/community/file/1102912263666619803/DoctorCare">Figma do projeto</a>
+> 🚀 <a href="https://lucyanovidio.github.io/doctorcare">Acesse aqui</a> &nbsp; | &nbsp; 
+🖌 <a href="https://www.figma.com/community/file/1102912263666619803/DoctorCare">Figma do projeto</a>
 
 ## 💻 Sobre
 
@@ -25,6 +25,8 @@ O projeto DoctorCare é um site que foi desenvolvido na Next Level Week 8 ("Retu
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
+
+<br>
 
 ---
 
