@@ -18,7 +18,7 @@ O projeto DoctorCare é um site que foi desenvolvido na Next Level Week 8 ("Retu
 + DOM;
 + Utilizando libs JS de terceiros.
 
-## 🧠Tecnologias usadas
+## 🧠 Tecnologias usadas
 
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
