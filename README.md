@@ -14,6 +14,7 @@ O projeto DoctorCare é um site que foi desenvolvido na Next Level Week 8 ("Retu
 + Iniciando com acessibilidade;
 + Responsividade;
 + Mobile first;
++ Variáveis, funções e operadores em JS;
 + DOM;
 + Utilizando libs JS de terceiros.
 
